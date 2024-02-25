@@ -5,6 +5,7 @@ bisa diakses melalui https://bayuran.karangkates.desa.id/index.php
 ### Deskripsi
 
 Sistem Informasi Bayar Iuran (BAYURAN) adalah aplikasi web sederhana yang dirancang untuk memudahkan warga Desa Karangkates dalam proses pembayaran iuran. Dibangun dengan menggunakan PHP native, aplikasi ini memberikan kemudahan dalam melakukan pembayaran iuran secara online.
+sistem ini dikembangkan oleh anggota PMM kelompok 36 Gelombang 5 waktu pelaksanaan 19 januari 2024 - 19 februari 2024
 
 ### Fitur
 
