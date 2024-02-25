@@ -1,7 +1,7 @@
 ## Sistem Informasi Bayar Iuran (BAYURAN)
 
 Sistem Informasi Bayar Iuran (BAYURAN), sebuah website untuk membantu proses pembayaran iuran di Desa Karangkates menggunakan PHP native.
-
+bisa diakses melalui https://bayuran.karangkates.desa.id/index.php
 ### Deskripsi
 
 Sistem Informasi Bayar Iuran (BAYURAN) adalah aplikasi web sederhana yang dirancang untuk memudahkan warga Desa Karangkates dalam proses pembayaran iuran. Dibangun dengan menggunakan PHP native, aplikasi ini memberikan kemudahan dalam melakukan pembayaran iuran secara online.
