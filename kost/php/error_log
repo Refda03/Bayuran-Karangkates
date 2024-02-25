@@ -1,0 +1,108 @@
+[20-Feb-2024 17:51:03 UTC] PHP Notice:  Undefined index: alamat in /home/karangka/bayuran.karangkates.desa.id/kost/php/properti-edit_proses.php on line 15
+[20-Feb-2024 17:51:03 UTC] PHP Notice:  Undefined index: provinsi in /home/karangka/bayuran.karangkates.desa.id/kost/php/properti-edit_proses.php on line 16
+[20-Feb-2024 17:51:03 UTC] PHP Notice:  Undefined index: kota in /home/karangka/bayuran.karangkates.desa.id/kost/php/properti-edit_proses.php on line 17
+[20-Feb-2024 17:51:03 UTC] PHP Notice:  Undefined index: kecamatan in /home/karangka/bayuran.karangkates.desa.id/kost/php/properti-edit_proses.php on line 18
+[20-Feb-2024 17:51:03 UTC] PHP Notice:  Undefined index: kelurahan in /home/karangka/bayuran.karangkates.desa.id/kost/php/properti-edit_proses.php on line 19
+[20-Feb-2024 17:51:03 UTC] PHP Notice:  Undefined index: kontak in /home/karangka/bayuran.karangkates.desa.id/kost/php/properti-edit_proses.php on line 21
+[20-Feb-2024 17:51:03 UTC] PHP Notice:  Undefined index: nama_pemilik in /home/karangka/bayuran.karangkates.desa.id/kost/php/properti-edit_proses.php on line 28
+[20-Feb-2024 17:51:03 UTC] PHP Notice:  Undefined index: fasilitas in /home/karangka/bayuran.karangkates.desa.id/kost/php/properti-edit_proses.php on line 32
+[20-Feb-2024 17:51:03 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/karangka/bayuran.karangkates.desa.id/kost/php/properti-edit_proses.php on line 33
+[20-Feb-2024 17:51:03 UTC] PHP Notice:  Undefined index: foto_bangunan_utama in /home/karangka/bayuran.karangkates.desa.id/kost/php/properti-edit_proses.php on line 35
+[20-Feb-2024 17:51:03 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/karangka/bayuran.karangkates.desa.id/kost/php/properti-edit_proses.php on line 35
+[20-Feb-2024 17:51:03 UTC] PHP Notice:  Undefined index: foto_kamar in /home/karangka/bayuran.karangkates.desa.id/kost/php/properti-edit_proses.php on line 36
+[20-Feb-2024 17:51:03 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/karangka/bayuran.karangkates.desa.id/kost/php/properti-edit_proses.php on line 36
+[20-Feb-2024 17:51:03 UTC] PHP Notice:  Undefined index: foto_kamar_mandi in /home/karangka/bayuran.karangkates.desa.id/kost/php/properti-edit_proses.php on line 37
+[20-Feb-2024 17:51:03 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/karangka/bayuran.karangkates.desa.id/kost/php/properti-edit_proses.php on line 37
+[20-Feb-2024 17:51:03 UTC] PHP Notice:  Undefined index: foto_interior in /home/karangka/bayuran.karangkates.desa.id/kost/php/properti-edit_proses.php on line 38
+[20-Feb-2024 17:51:03 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/karangka/bayuran.karangkates.desa.id/kost/php/properti-edit_proses.php on line 38
+[20-Feb-2024 17:51:03 UTC] PHP Notice:  Undefined index: foto_bangunan_utama in /home/karangka/bayuran.karangkates.desa.id/kost/php/properti-edit_proses.php on line 39
+[20-Feb-2024 17:51:03 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/karangka/bayuran.karangkates.desa.id/kost/php/properti-edit_proses.php on line 39
+[20-Feb-2024 17:51:03 UTC] PHP Notice:  Undefined index: foto_kamar in /home/karangka/bayuran.karangkates.desa.id/kost/php/properti-edit_proses.php on line 40
+[20-Feb-2024 17:51:03 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/karangka/bayuran.karangkates.desa.id/kost/php/properti-edit_proses.php on line 40
+[20-Feb-2024 17:51:03 UTC] PHP Notice:  Undefined index: foto_kamar_mandi in /home/karangka/bayuran.karangkates.desa.id/kost/php/properti-edit_proses.php on line 41
+[20-Feb-2024 17:51:03 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/karangka/bayuran.karangkates.desa.id/kost/php/properti-edit_proses.php on line 41
+[20-Feb-2024 17:51:03 UTC] PHP Notice:  Undefined index: foto_interior in /home/karangka/bayuran.karangkates.desa.id/kost/php/properti-edit_proses.php on line 42
+[20-Feb-2024 17:51:03 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/karangka/bayuran.karangkates.desa.id/kost/php/properti-edit_proses.php on line 42
+[20-Feb-2024 17:51:03 UTC] PHP Notice:  Undefined index: jenis_kost in /home/karangka/bayuran.karangkates.desa.id/kost/php/properti-edit_proses.php on line 64
+[23-Feb-2024 03:34:41 UTC] PHP Notice:  Undefined index: fasilitas in /home/karangka/bayuran.karangkates.desa.id/kost/php/tambah-kos_proses.php on line 11
+[23-Feb-2024 03:34:41 UTC] PHP Notice:  Undefined index: tipe_kost in /home/karangka/bayuran.karangkates.desa.id/kost/php/tambah-kos_proses.php on line 13
+[23-Feb-2024 03:34:41 UTC] PHP Notice:  Undefined variable: jenis_kost in /home/karangka/bayuran.karangkates.desa.id/kost/php/tambah-kos_proses.php on line 26
+[23-Feb-2024 03:34:41 UTC] PHP Notice:  Undefined variable: jumlah_kamar in /home/karangka/bayuran.karangkates.desa.id/kost/php/tambah-kos_proses.php on line 26
+[23-Feb-2024 03:34:41 UTC] PHP Notice:  Undefined variable: nama_pemilik in /home/karangka/bayuran.karangkates.desa.id/kost/php/tambah-kos_proses.php on line 26
+[23-Feb-2024 03:34:41 UTC] PHP Notice:  Undefined variable: foto_bangunan_utama in /home/karangka/bayuran.karangkates.desa.id/kost/php/tambah-kos_proses.php on line 26
+[23-Feb-2024 03:34:41 UTC] PHP Notice:  Undefined variable: foto_kamar in /home/karangka/bayuran.karangkates.desa.id/kost/php/tambah-kos_proses.php on line 26
+[23-Feb-2024 03:34:41 UTC] PHP Notice:  Undefined variable: foto_kamar_mandi in /home/karangka/bayuran.karangkates.desa.id/kost/php/tambah-kos_proses.php on line 26
+[23-Feb-2024 03:34:41 UTC] PHP Notice:  Undefined variable: foto_interior in /home/karangka/bayuran.karangkates.desa.id/kost/php/tambah-kos_proses.php on line 26
+[23-Feb-2024 03:34:41 UTC] PHP Notice:  Undefined variable: provinsi in /home/karangka/bayuran.karangkates.desa.id/kost/php/tambah-kos_proses.php on line 26
+[23-Feb-2024 03:34:41 UTC] PHP Notice:  Undefined variable: kota in /home/karangka/bayuran.karangkates.desa.id/kost/php/tambah-kos_proses.php on line 26
+[23-Feb-2024 03:34:41 UTC] PHP Notice:  Undefined variable: kecamatan in /home/karangka/bayuran.karangkates.desa.id/kost/php/tambah-kos_proses.php on line 26
+[23-Feb-2024 03:34:41 UTC] PHP Notice:  Undefined variable: kelurahan in /home/karangka/bayuran.karangkates.desa.id/kost/php/tambah-kos_proses.php on line 26
+[23-Feb-2024 03:34:41 UTC] PHP Notice:  Undefined variable: alamat in /home/karangka/bayuran.karangkates.desa.id/kost/php/tambah-kos_proses.php on line 26
+[23-Feb-2024 03:34:41 UTC] PHP Notice:  Undefined variable: kontak in /home/karangka/bayuran.karangkates.desa.id/kost/php/tambah-kos_proses.php on line 26
+[23-Feb-2024 03:34:41 UTC] PHP Notice:  Undefined variable: fasilitas in /home/karangka/bayuran.karangkates.desa.id/kost/php/tambah-kos_proses.php on line 26
+[23-Feb-2024 13:54:09 UTC] PHP Notice:  Undefined index: password in /home/karangka/bayuran.karangkates.desa.id/kost/php/edit-profil_proses.php on line 14
+[23-Feb-2024 13:54:09 UTC] PHP Notice:  Undefined index: roles in /home/karangka/bayuran.karangkates.desa.id/kost/php/edit-profil_proses.php on line 18
+[23-Feb-2024 13:54:09 UTC] PHP Notice:  Undefined index: foto_ktp in /home/karangka/bayuran.karangkates.desa.id/kost/php/edit-profil_proses.php on line 20
+[23-Feb-2024 13:54:09 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/karangka/bayuran.karangkates.desa.id/kost/php/edit-profil_proses.php on line 20
+[23-Feb-2024 13:54:09 UTC] PHP Notice:  Undefined index: foto_ktp in /home/karangka/bayuran.karangkates.desa.id/kost/php/edit-profil_proses.php on line 23
+[23-Feb-2024 13:54:09 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/karangka/bayuran.karangkates.desa.id/kost/php/edit-profil_proses.php on line 23
+[23-Feb-2024 14:00:33 UTC] PHP Notice:  Undefined index: fasilitas in /home/karangka/bayuran.karangkates.desa.id/kost/php/tambah-kos_proses.php on line 11
+[23-Feb-2024 14:00:33 UTC] PHP Notice:  Undefined index: tipe_kost in /home/karangka/bayuran.karangkates.desa.id/kost/php/tambah-kos_proses.php on line 13
+[23-Feb-2024 14:00:33 UTC] PHP Notice:  Undefined variable: jenis_kost in /home/karangka/bayuran.karangkates.desa.id/kost/php/tambah-kos_proses.php on line 26
+[23-Feb-2024 14:00:33 UTC] PHP Notice:  Undefined variable: jumlah_kamar in /home/karangka/bayuran.karangkates.desa.id/kost/php/tambah-kos_proses.php on line 26
+[23-Feb-2024 14:00:33 UTC] PHP Notice:  Undefined variable: nama_pemilik in /home/karangka/bayuran.karangkates.desa.id/kost/php/tambah-kos_proses.php on line 26
+[23-Feb-2024 14:00:33 UTC] PHP Notice:  Undefined variable: foto_bangunan_utama in /home/karangka/bayuran.karangkates.desa.id/kost/php/tambah-kos_proses.php on line 26
+[23-Feb-2024 14:00:33 UTC] PHP Notice:  Undefined variable: foto_kamar in /home/karangka/bayuran.karangkates.desa.id/kost/php/tambah-kos_proses.php on line 26
+[23-Feb-2024 14:00:33 UTC] PHP Notice:  Undefined variable: foto_kamar_mandi in /home/karangka/bayuran.karangkates.desa.id/kost/php/tambah-kos_proses.php on line 26
+[23-Feb-2024 14:00:33 UTC] PHP Notice:  Undefined variable: foto_interior in /home/karangka/bayuran.karangkates.desa.id/kost/php/tambah-kos_proses.php on line 26
+[23-Feb-2024 14:00:33 UTC] PHP Notice:  Undefined variable: provinsi in /home/karangka/bayuran.karangkates.desa.id/kost/php/tambah-kos_proses.php on line 26
+[23-Feb-2024 14:00:33 UTC] PHP Notice:  Undefined variable: kota in /home/karangka/bayuran.karangkates.desa.id/kost/php/tambah-kos_proses.php on line 26
+[23-Feb-2024 14:00:33 UTC] PHP Notice:  Undefined variable: kecamatan in /home/karangka/bayuran.karangkates.desa.id/kost/php/tambah-kos_proses.php on line 26
+[23-Feb-2024 14:00:33 UTC] PHP Notice:  Undefined variable: kelurahan in /home/karangka/bayuran.karangkates.desa.id/kost/php/tambah-kos_proses.php on line 26
+[23-Feb-2024 14:00:33 UTC] PHP Notice:  Undefined variable: alamat in /home/karangka/bayuran.karangkates.desa.id/kost/php/tambah-kos_proses.php on line 26
+[23-Feb-2024 14:00:33 UTC] PHP Notice:  Undefined variable: kontak in /home/karangka/bayuran.karangkates.desa.id/kost/php/tambah-kos_proses.php on line 26
+[23-Feb-2024 14:00:33 UTC] PHP Notice:  Undefined variable: fasilitas in /home/karangka/bayuran.karangkates.desa.id/kost/php/tambah-kos_proses.php on line 26
+[23-Feb-2024 14:01:15 UTC] PHP Notice:  Undefined index: fasilitas in /home/karangka/bayuran.karangkates.desa.id/kost/php/tambah-kos_proses.php on line 11
+[23-Feb-2024 14:01:15 UTC] PHP Notice:  Undefined index: tipe_kost in /home/karangka/bayuran.karangkates.desa.id/kost/php/tambah-kos_proses.php on line 13
+[23-Feb-2024 14:01:15 UTC] PHP Notice:  Undefined variable: jenis_kost in /home/karangka/bayuran.karangkates.desa.id/kost/php/tambah-kos_proses.php on line 26
+[23-Feb-2024 14:01:15 UTC] PHP Notice:  Undefined variable: jumlah_kamar in /home/karangka/bayuran.karangkates.desa.id/kost/php/tambah-kos_proses.php on line 26
+[23-Feb-2024 14:01:15 UTC] PHP Notice:  Undefined variable: nama_pemilik in /home/karangka/bayuran.karangkates.desa.id/kost/php/tambah-kos_proses.php on line 26
+[23-Feb-2024 14:01:15 UTC] PHP Notice:  Undefined variable: foto_bangunan_utama in /home/karangka/bayuran.karangkates.desa.id/kost/php/tambah-kos_proses.php on line 26
+[23-Feb-2024 14:01:15 UTC] PHP Notice:  Undefined variable: foto_kamar in /home/karangka/bayuran.karangkates.desa.id/kost/php/tambah-kos_proses.php on line 26
+[23-Feb-2024 14:01:15 UTC] PHP Notice:  Undefined variable: foto_kamar_mandi in /home/karangka/bayuran.karangkates.desa.id/kost/php/tambah-kos_proses.php on line 26
+[23-Feb-2024 14:01:15 UTC] PHP Notice:  Undefined variable: foto_interior in /home/karangka/bayuran.karangkates.desa.id/kost/php/tambah-kos_proses.php on line 26
+[23-Feb-2024 14:01:15 UTC] PHP Notice:  Undefined variable: provinsi in /home/karangka/bayuran.karangkates.desa.id/kost/php/tambah-kos_proses.php on line 26
+[23-Feb-2024 14:01:15 UTC] PHP Notice:  Undefined variable: kota in /home/karangka/bayuran.karangkates.desa.id/kost/php/tambah-kos_proses.php on line 26
+[23-Feb-2024 14:01:15 UTC] PHP Notice:  Undefined variable: kecamatan in /home/karangka/bayuran.karangkates.desa.id/kost/php/tambah-kos_proses.php on line 26
+[23-Feb-2024 14:01:15 UTC] PHP Notice:  Undefined variable: kelurahan in /home/karangka/bayuran.karangkates.desa.id/kost/php/tambah-kos_proses.php on line 26
+[23-Feb-2024 14:01:15 UTC] PHP Notice:  Undefined variable: alamat in /home/karangka/bayuran.karangkates.desa.id/kost/php/tambah-kos_proses.php on line 26
+[23-Feb-2024 14:01:15 UTC] PHP Notice:  Undefined variable: kontak in /home/karangka/bayuran.karangkates.desa.id/kost/php/tambah-kos_proses.php on line 26
+[23-Feb-2024 14:01:15 UTC] PHP Notice:  Undefined variable: fasilitas in /home/karangka/bayuran.karangkates.desa.id/kost/php/tambah-kos_proses.php on line 26
+[25-Feb-2024 05:18:03 UTC] PHP Notice:  Undefined index: fasilitas in /home/karangka/bayuran.karangkates.desa.id/kost/php/tambah-kos_proses.php on line 11
+[25-Feb-2024 05:18:03 UTC] PHP Notice:  Undefined index: tipe_kost in /home/karangka/bayuran.karangkates.desa.id/kost/php/tambah-kos_proses.php on line 13
+[25-Feb-2024 05:18:03 UTC] PHP Notice:  Undefined variable: jenis_kost in /home/karangka/bayuran.karangkates.desa.id/kost/php/tambah-kos_proses.php on line 26
+[25-Feb-2024 05:18:03 UTC] PHP Notice:  Undefined variable: jumlah_kamar in /home/karangka/bayuran.karangkates.desa.id/kost/php/tambah-kos_proses.php on line 26
+[25-Feb-2024 05:18:03 UTC] PHP Notice:  Undefined variable: nama_pemilik in /home/karangka/bayuran.karangkates.desa.id/kost/php/tambah-kos_proses.php on line 26
+[25-Feb-2024 05:18:03 UTC] PHP Notice:  Undefined variable: foto_bangunan_utama in /home/karangka/bayuran.karangkates.desa.id/kost/php/tambah-kos_proses.php on line 26
+[25-Feb-2024 05:18:03 UTC] PHP Notice:  Undefined variable: foto_kamar in /home/karangka/bayuran.karangkates.desa.id/kost/php/tambah-kos_proses.php on line 26
+[25-Feb-2024 05:18:03 UTC] PHP Notice:  Undefined variable: foto_kamar_mandi in /home/karangka/bayuran.karangkates.desa.id/kost/php/tambah-kos_proses.php on line 26
+[25-Feb-2024 05:18:03 UTC] PHP Notice:  Undefined variable: foto_interior in /home/karangka/bayuran.karangkates.desa.id/kost/php/tambah-kos_proses.php on line 26
+[25-Feb-2024 05:18:03 UTC] PHP Notice:  Undefined variable: provinsi in /home/karangka/bayuran.karangkates.desa.id/kost/php/tambah-kos_proses.php on line 26
+[25-Feb-2024 05:18:03 UTC] PHP Notice:  Undefined variable: kota in /home/karangka/bayuran.karangkates.desa.id/kost/php/tambah-kos_proses.php on line 26
+[25-Feb-2024 05:18:03 UTC] PHP Notice:  Undefined variable: kecamatan in /home/karangka/bayuran.karangkates.desa.id/kost/php/tambah-kos_proses.php on line 26
+[25-Feb-2024 05:18:03 UTC] PHP Notice:  Undefined variable: kelurahan in /home/karangka/bayuran.karangkates.desa.id/kost/php/tambah-kos_proses.php on line 26
+[25-Feb-2024 05:18:03 UTC] PHP Notice:  Undefined variable: alamat in /home/karangka/bayuran.karangkates.desa.id/kost/php/tambah-kos_proses.php on line 26
+[25-Feb-2024 05:18:03 UTC] PHP Notice:  Undefined variable: kontak in /home/karangka/bayuran.karangkates.desa.id/kost/php/tambah-kos_proses.php on line 26
+[25-Feb-2024 05:18:03 UTC] PHP Notice:  Undefined variable: fasilitas in /home/karangka/bayuran.karangkates.desa.id/kost/php/tambah-kos_proses.php on line 26
+[25-Feb-2024 05:54:42 UTC] PHP Notice:  Undefined index: password in /home/karangka/bayuran.karangkates.desa.id/kost/php/edit-profil_proses.php on line 14
+[25-Feb-2024 05:54:42 UTC] PHP Notice:  Undefined index: roles in /home/karangka/bayuran.karangkates.desa.id/kost/php/edit-profil_proses.php on line 18
+[25-Feb-2024 05:54:42 UTC] PHP Notice:  Undefined index: foto_ktp in /home/karangka/bayuran.karangkates.desa.id/kost/php/edit-profil_proses.php on line 20
+[25-Feb-2024 05:54:42 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/karangka/bayuran.karangkates.desa.id/kost/php/edit-profil_proses.php on line 20
+[25-Feb-2024 05:54:42 UTC] PHP Notice:  Undefined index: foto_ktp in /home/karangka/bayuran.karangkates.desa.id/kost/php/edit-profil_proses.php on line 23
+[25-Feb-2024 05:54:42 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/karangka/bayuran.karangkates.desa.id/kost/php/edit-profil_proses.php on line 23
+[25-Feb-2024 06:04:09 UTC] PHP Notice:  Undefined index: password in /home/karangka/bayuran.karangkates.desa.id/kost/php/edit-profil_proses.php on line 14
+[25-Feb-2024 06:04:09 UTC] PHP Notice:  Undefined index: roles in /home/karangka/bayuran.karangkates.desa.id/kost/php/edit-profil_proses.php on line 18
+[25-Feb-2024 06:04:09 UTC] PHP Notice:  Undefined index: foto_ktp in /home/karangka/bayuran.karangkates.desa.id/kost/php/edit-profil_proses.php on line 20
+[25-Feb-2024 06:04:09 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/karangka/bayuran.karangkates.desa.id/kost/php/edit-profil_proses.php on line 20
+[25-Feb-2024 06:04:09 UTC] PHP Notice:  Undefined index: foto_ktp in /home/karangka/bayuran.karangkates.desa.id/kost/php/edit-profil_proses.php on line 23
+[25-Feb-2024 06:04:09 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/karangka/bayuran.karangkates.desa.id/kost/php/edit-profil_proses.php on line 23
